@@ -1,0 +1,4 @@
+*.db
+*.log
+practical/target
+practical/bin
